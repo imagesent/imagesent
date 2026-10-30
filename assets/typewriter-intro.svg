@@ -34,7 +34,7 @@
   <text x="40" y="175" clip-path="url(#c2)" font-family="Courier New, monospace" font-size="20" font-weight="normal" fill="#d9d4ff" xml:space="preserve">$ ls ~/languages</text>
   <text x="40" y="210" clip-path="url(#c3)" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="url(#foil)" xml:space="preserve">shown below</text>
   <text x="40" y="260" clip-path="url(#c4)" font-family="Courier New, monospace" font-size="20" font-weight="normal" fill="#d9d4ff" xml:space="preserve">$ ./play --now</text>
-  <text x="40" y="295" clip-path="url(#c5)" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="url(#foil)" xml:space="preserve">valorant • roblox • minecraft  </text>
+  <text x="40" y="295" clip-path="url(#c5)" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="url(#foil)" xml:space="preserve">valorant • roblox • mlbb</text>
   <rect x="372" y="277" width="11" height="22" fill="#00f5d4">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
