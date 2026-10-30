@@ -14,16 +14,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: imagesent
-          filename: metrics.activity.svg
-          template: classic
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 90
-          plugin_activity_visibility: public
-          plugins_errors_fatal: yes
-          config_timezone: Asia/Manila
+      - uses: actions/checkout@v4
+
+      - name: Build activity pulse
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PULSE_USER: imagesent
+          PULSE_TZ_HOURS: "8"
+        run: python3 .github/scripts/pulse.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.activity.svg
+          git diff --cached --quiet || (git commit -m "Update metrics.activity.svg" && git push)
