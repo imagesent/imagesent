@@ -32,7 +32,7 @@
   <text x="40" y="90" clip-path="url(#c0)" font-family="Courier New, monospace" font-size="20" font-weight="normal" fill="#d9d4ff" xml:space="preserve">$ whoami</text>
   <text x="40" y="125" clip-path="url(#c1)" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="url(#foil)" xml:space="preserve">yuziro</text>
   <text x="40" y="175" clip-path="url(#c2)" font-family="Courier New, monospace" font-size="20" font-weight="normal" fill="#d9d4ff" xml:space="preserve">$ ls ~/languages</text>
-  <text x="40" y="210" clip-path="url(#c3)" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="url(#foil)" xml:space="preserve">python  html  css  ts  java  lua  rust(learning)</text>
+  <text x="40" y="210" clip-path="url(#c3)" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="url(#foil)" xml:space="preserve">too lazy to type</text>
   <text x="40" y="260" clip-path="url(#c4)" font-family="Courier New, monospace" font-size="20" font-weight="normal" fill="#d9d4ff" xml:space="preserve">$ ./play --now</text>
   <text x="40" y="295" clip-path="url(#c5)" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="url(#foil)" xml:space="preserve">valorant  roblox  minecraft</text>
   <rect x="372" y="277" width="11" height="22" fill="#00f5d4">
