@@ -2,12 +2,6 @@
   <img src="./assets/holographic-foil.svg" alt="yuziro — multi-language tinkerer (lv.17)" width="100%" />
 </p>
 
-### encounters
-
-- **learning** · Rust
-- **building** · Roblox games in Lua
-- **playing** · Valorant, Minecraft, Roblox
-
 ### loadout
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
