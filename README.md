@@ -13,7 +13,7 @@
 ![Rust](https://img.shields.io/badge/Rust-learning-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <p align="center">
-  <img src="./metrics.activity.svg?v=2" alt="activity pulse" width="100%" />
+  <img src="./metrics.activity.svg?v=3" alt="activity pulse" width="100%" />
 </p>
 
 <p align="center">
