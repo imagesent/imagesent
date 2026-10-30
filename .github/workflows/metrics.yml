@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
 jobs:
   pulse:
     runs-on: ubuntu-latest
@@ -28,4 +32,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add metrics.activity.svg
-          git diff --cached --quiet || (git commit -m "Update metrics.activity.svg" && git push)
+          git diff --cached --quiet || (git commit -m "Update metrics.activity.svg" && git pull --rebase && git push)
