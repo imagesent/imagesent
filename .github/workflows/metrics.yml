@@ -21,17 +21,7 @@ jobs:
           filename: metrics.activity.svg
           template: classic
           base: ""
-
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 90
-          plugin_activity_filter: all
-
-          plugin_traffic: yes
-
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-
           config_timezone: Asia/Manila
-          config_padding: 0, 8 + 4%
-          config_animations: yes
