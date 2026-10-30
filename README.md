@@ -2,14 +2,10 @@
   <img src="./assets/holographic-foil.svg" alt="yuziro — multi-language tinkerer (lv.17)" width="100%" />
 </p>
 
-### dossier
-
-yuziro here. i write code in a bunch of languages, from Python and web stuff to Lua scripts for Roblox, and i'm currently diving into Rust. when i'm not coding, i'm probably queued up in Valorant or building something in Minecraft.
-
 ### encounters
 
-- **learning** · Rust, one borrow checker fight at a time
-- **building** · Lua scripts and games on Roblox
+- **learning** · Rust
+- **building** · Roblox games in Lua
 - **playing** · Valorant, Minecraft, Roblox
 
 ### loadout
@@ -26,24 +22,6 @@ yuziro here. i write code in a bunch of languages, from Python and web stuff to 
   <img src="./metrics.activity.svg" alt="activity pulse" width="100%" />
 </p>
 
-### how i work
-
-- **language hopper.** i pick the right tool for the job: Python for scripts, Lua for game stuff, TS for the web.
-- **learning in the open.** Rust is the current side quest, expect messy repos while i figure it out.
-- **gaming fuels the builds.** a lot of project ideas start as "what if this game had..."
-
 <p align="center">
   <img src="./assets/typewriter-intro.svg" alt="yuziro — terminal session" width="100%" />
 </p>
-
-<!--
-### projects on the desk
-Uncomment and fill in once you pick 3 repos:
-
-- [repo-one](https://github.com/yuziro/repo-one) — what it does
-- [repo-two](https://github.com/yuziro/repo-two) — what it does
-- [repo-three](https://github.com/yuziro/repo-three) — what it does
-
-### writing
-Only add this if you actually write anything.
--->
